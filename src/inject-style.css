@@ -24,7 +24,7 @@
   margin: 0;
   padding: 0;
   padding-top: 2rem;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
 
   position: fixed;
   top: 0;
@@ -123,7 +123,7 @@
 
 .var-injector input,
 .var-injector textarea {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
 
   margin: 0;
   padding: 0;

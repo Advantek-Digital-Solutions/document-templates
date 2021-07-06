@@ -29,7 +29,7 @@ a:hover {
 }
 
 html {
-  font-family: "IBM Plex Sans", serif;
+  font-family: serif;
   /* font-size: 137.5%; */
   font-size: calc(
     (var(--font-size-min) * 1px) + (var(--font-size-max) - var(--font-size-min)) *

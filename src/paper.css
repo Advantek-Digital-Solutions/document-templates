@@ -19,7 +19,7 @@
 }
 
 html {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: sans-serif;
   /* font-size: 137.5%; */
   font-size: calc(
     (var(--font-size-min) * 1px) + (var(--font-size-max) - var(--font-size-min)) *

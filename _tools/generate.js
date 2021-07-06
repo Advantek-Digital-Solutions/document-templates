@@ -40,7 +40,8 @@ async function getDocuments() {
     const title = await getTitle(item);
     result.push({
       title,
-      url: `/avtaler/${path.basename(item)}`
+      //url: `/avtaler/${path.basename(item)}`
+      url: path.resolve(item)
     });
   }
   return result;
